@@ -1,0 +1,17 @@
+KIT725 GROUP 4
+Package: KIT725-G04-95BA8BE5
+
+Open this folder in Visual Studio Code, then Terminal > New Terminal.
+Windows: py -3 app.py
+macOS / Linux: python3 app.py
+Keep app.py, db_setup.py and lab_data together. Python 3.9+ is required.
+
+Fictional accounts / passwords:
+g04_robin / g04_robin-lab-pass
+g04_ellis / g04_ellis-lab-pass
+g04_devon / g04_devon-lab-pass
+g04_rowan / g04_rowan-lab-pass
+admin / admin-lab-pass
+
+Read GROUP_04.md, STUDENT_BRIEF.md and CWE_COMMENT_TEMPLATE.md.
+Use synthetic data in a disposable offline lab.
